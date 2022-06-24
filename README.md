@@ -1,1 +1,1 @@
-what is the differnce between a hard link and symbolic  link
+Task 0.Where am i?
