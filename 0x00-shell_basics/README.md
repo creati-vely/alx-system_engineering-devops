@@ -1,2 +1,1 @@
-Youve completed the quiz successfully! keep going > README.md
-echo Youve completed the quiz successfully! keep going
+script that prints the absolute path name of the current working directory
