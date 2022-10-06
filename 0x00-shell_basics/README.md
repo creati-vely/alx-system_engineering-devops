@@ -1,1 +1,1 @@
-file manipulating and executing
+Solutions for 0x00-shell_basics
